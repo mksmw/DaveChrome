@@ -1,6 +1,6 @@
 # Dave Runner
 
-This is my version of the well-known T-rex runner game with a slight twist in the model, where the T-rex is replaced with a friend of mine. All assets, except for the track, were made by me using Piskel."
+This is my version of the well-known T-rex runner game from the infamous 404 page. With a slight twist to the model, where the T-rex is replaced with a friend of mine. All assets were made by me using Piskel, except for the track.
 
 ## How to play
 
