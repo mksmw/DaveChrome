@@ -1,6 +1,6 @@
 # Dave Runner
 
-A bootleg Chrome Dino game that I replaced with one of my friend david, all assets are made by me using Piskel (except for the track)
+This is my version of the well-known T-rex runner game with a slight twist in the model, where the T-rex is replaced with a friend of mine. All assets, except for the track, were made by me using Piskel."
 
 ## How to play
 
